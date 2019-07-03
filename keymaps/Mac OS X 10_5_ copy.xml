@@ -1,0 +1,76 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinProject" />
+  <action id="CloseActiveTab" />
+  <action id="CompareTwoFiles" />
+  <action id="Debug" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.ShowDiff" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDuplicate" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="ExecuteInPyConsoleAction" />
+  <action id="ExternalJavaDoc" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoSymbol" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="HideAllWindows" />
+  <action id="JumpToLastWindow" />
+  <action id="MaximizeToolWindow" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="QuickJavaDoc" />
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowContent" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="Vcs.UpdateProject" />
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
