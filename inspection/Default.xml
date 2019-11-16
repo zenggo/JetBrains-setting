@@ -3,11 +3,15 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="4">
+        <list size="8">
           <item index="0" class="java.lang.String" itemvalue="tb-nightly" />
           <item index="1" class="java.lang.String" itemvalue="sklearn" />
           <item index="2" class="java.lang.String" itemvalue="keras" />
           <item index="3" class="java.lang.String" itemvalue="thulac" />
+          <item index="4" class="java.lang.String" itemvalue="tqdm" />
+          <item index="5" class="java.lang.String" itemvalue="regex" />
+          <item index="6" class="java.lang.String" itemvalue="fire" />
+          <item index="7" class="java.lang.String" itemvalue="requests" />
         </list>
       </value>
     </option>
