@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="samples" type="PLAIN_TEXT" />
       <mapping pattern="results_no_stop.txt" type="PLAIN_TEXT" />
+      <mapping ext="model" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
